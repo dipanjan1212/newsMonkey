@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed",
+            "title": "Trump goes to Supreme Court over Mar-a-Lago search and seizure of documents - CNN",
+            "description": "Former President Donald Trump has asked the Supreme Court to intervene in the dispute over materials marked as classified the FBI seized from his Mar-a-Lago estate this summer.",
+            "url": "https://www.cnn.com/2022/10/04/politics/trump-supreme-court-mar-a-lago-appeal/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004102955-donald-trump-100122.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-04T20:07:00Z",
+            "content": "Former President Donald Trump has asked the Supreme Court to intervene in the dispute over materials marked as classified the FBI seized from his Mar-a-Lago estate this summer. \r\nHis emergency reques… [+4353 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica",
+            "title": "Dow rallies more than 1,500 points in two days as fear begins to fade - CNN",
+            "description": "Is the worst really over on Wall Street? It's too soon to say. But stocks rose sharply again Tuesday following Monday's big rally.",
+            "url": "https://www.cnn.com/2022/10/04/investing/dow-stock-market-today/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004080609-nyse-100322.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-04T20:07:00Z",
+            "content": "Is the worst really over on Wall Street? Its too soon to say. But stocks rose sharply again Tuesday following Mondays big rally. \r\nThe Dow surged 825 points, or 2.8%. The Dow has soared more than 1,5… [+3426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger",
+            "title": "Trump and GOP defend Herschel Walker after abortion accusation rocks Georgia Senate race - CNBC",
+            "description": "Trump and GOP allies defended Walker as polls show him in a tight race with his Democratic incumbent Sen. Raphael Warnock in the pivotal Georgia Senate race.",
+            "url": "https://www.cnbc.com/2022/10/04/georgia-senate-election-donald-trump-defends-herschel-walker-after-abortion-report.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107129167-1664906340721-gettyimages-1240412974-TrumpPerry_September25.jpeg?v=1664912991&w=1920&h=1080",
+            "publishedAt": "2022-10-04T19:49:51Z",
+            "content": "Former President Donald Trump and leaders of top GOP political organizations leapt to the defense of Georgia Senate candidate Herschel Walker on Tuesday, after a bombshell report accused the anti-abo… [+6851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Jake Ciely",
+            "title": "Fantasy football waiver wire Week 5: Streamers, Tyler Allgeier, Mike Boone and more - The Athletic",
+            "description": "Jake Ciely assesses the Week 5 fantasy football waiver wire landscape, with injuries creating next-man-up situations in Denver and Atlanta.",
+            "url": "https://theathletic.com/3654512/2022/10/04/fantasy-football-waiver-wire-week-4/",
+            "urlToImage": "     ",
+            "publishedAt": "2022-10-04T19:48:35Z",
+            "content": "Week 4 saw more significant injuries, putting pressure on fantasy football managers to make the right waiver wire moves. With Tyler Allgeier, Mike Boone, Nyheim Hines and more potentially ready to be… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Tom Krisher, Matt O'Brien and Randall Chase, Associated Press",
+            "title": "Musk offers to end legal fight, pay $44B to buy Twitter - KSL.com",
+            "description": "Elon Musk is offering to go through with his original proposal to buy Twitter for $44 billion. The Tesla CEO said in a regulatory filing Tuesday that he notified Twitter of plans to go through with the deal.",
+            "url": "https://www.ksl.com/article/50488777/musk-offers-to-end-legal-fight-pay-44b-to-buy-twitter",
+            "urlToImage": "https://img.ksl.com/slc/2896/289628/28962865.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-10-04T19:18:45Z",
+            "content": "Estimated read time: 6-7 minutes\r\nNEW YORK Elon Musk is abandoning his legal battle to back out of buying Twitter by offering to go through with his original $44 billion bid for the social media plat… [+7048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Renée Onque",
+            "title": "Most Americans don't plan to get a flu shot this season — lots of them say they'll mask to avoid germs instead - CNBC",
+            "description": "A higher share of Americans plan to mask at least sometimes this flu season to avoid germs than plan to get vaccinated, according to a survey from the NFID.",
+            "url": "https://www.cnbc.com/2022/10/04/fewer-americans-plan-to-get-a-flu-shot-this-season-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106690940-1599222701467-gettyimages-1270517932-a66i4073_2020090361539411.jpeg?v=1664907858&w=1920&h=1080",
+            "publishedAt": "2022-10-04T18:24:18Z",
+            "content": "Only 49% of U.S. adults plan to get their flu shot this flu season, according to a survey conducted by the National Foundation for Infectious Diseases (NFID). Even 1 in 5 of those who are at higher r… [+3003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Greta Serrin",
+            "title": "What we're learning about victims of the Stockton serial killings - KCRA Sacramento",
+            "description": "The killings of at least seven people in Stockton are now believed to be interconnected, according to authorities.",
+            "url": "https://www.kcra.com/article/what-were-learning-about-stockton-serial-killings-victims/41516619",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stockton-victims-2-1664678695.png?crop=1.00xw:0.668xh;0,0&resize=1200:*",
+            "publishedAt": "2022-10-04T18:15:00Z",
+            "content": "The recent shooting deaths of at least five people in Stockton and of one person killed in Oakland last year are believed to be interconnected, according to Stockton police. In addition, the shooting… [+4587 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Asteroid that wiped out the dinosaurs also triggered a global tsunami - CNN",
+            "description": "When a city-size asteroid slammed into Earth 66 million years ago, it wiped out the dinosaurs  -- and sent a monster tsunami rippling around the planet, according to new research.",
+            "url": "https://www.cnn.com/2022/10/04/world/dinosaur-asteroid-tsunami-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004131213-03-global-tsunami-model.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-04T17:59:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWhen a city-size asteroid slammed into Earth 66 millio… [+6077 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caroline Thayer",
+            "title": "'Black Lives Matter was a scam,' says Kanye West after White Lives Matter shirt goes viral - Fox News",
+            "description": "Kanye West stirred up controversy yet again by saying that \"Black Lives Matter was a scam\" in a since-deleted Instagram story. This comes a day after he wore a \"White Lives Matter\" shirt.",
+            "url": "https://www.foxnews.com/entertainment/black-lives-matter-scam-says-kanye-west-white-lives-matter-shirt-goes-viral",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/kanye-black-lives-matter-copy.jpg",
+            "publishedAt": "2022-10-04T17:57:51Z",
+            "content": "Kanye West not only claimed that Black Lives Matter was a scam, but he also seemingly took credit for moving the discussion away from the movement and onto himself, just a day after debuting and wear… [+2648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "https://www.theguardian.com/profile/scottmurray",
+            "title": "Liverpool v Rangers: Champions League – live - The Guardian",
+            "description": "Liverpool are out of sorts. How will they fare against their visitors from Glasgow? Join Scott Murray to find out",
+            "url": "https://www.theguardian.com/football/live/2022/oct/03/liverpool-v-rangers-champions-league-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/184d7a0c3bfe13b1908367a6c0ded126f5d9a493/0_414_2202_1321/master/2202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b4e7b75ff916ae616ca35aa7a413c4d4",
+            "publishedAt": "2022-10-04T17:30:00Z",
+            "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\nTrent Alexander-Arnold speaks to BT Sport. The performance was great. On Saturday it was disappointing, our press wasnt there. We we… [+12305 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Comet-like debris trail spotted after spacecraft crashes into asteroid - CNN",
+            "description": "A new image captured by a telescope in Chile looks like a dazzling comet with a long, glowing tail. Instead, it's the debris plume created when NASA's DART spacecraft crashed into the asteroid Dimorphos.",
+            "url": "https://www.cnn.com/2022/10/04/world/nasa-dart-debris-trail-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221003185446-nasa-dart-debris-trail.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-04T17:18:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAt first glance, a new image captured by a telescope i… [+2555 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Austen Hufford",
+            "title": "U.S. Job Openings Fell in August - WSJ - The Wall Street Journal",
+            "description": "The number of open jobs in the U.S. economy dropped by 10% and layoffs rose slightly, signs that the labor market is starting to cool.",
+            "url": "https://www.wsj.com/articles/job-openings-hiring-economy-august-2022-11664833689",
+            "urlToImage": "https://images.wsj.net/im-636192/social",
+            "publishedAt": "2022-10-04T16:29:00Z",
+            "content": "U.S. employers pulled back sharply on job openings, and layoffs rose in August, adding to signs the labor market cooled at the end of the summer. \r\nThe Labor Department said Tuesday that total job op… [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Roxana Saberi",
+            "title": "\"They can't arrest all of us\": Why Iran's defiant young protesters \"want the change today\" - CBS News",
+            "description": "\"They can't arrest all of us,\" declared one of the many young women who've joined mass protests demanding an end to Iran's repressive regime.",
+            "url": "https://www.cbsnews.com/news/iran-news-protests-deaths-defiant-young-protesters-want-the-change-today/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/04/e08944d8-6662-4501-a035-371b8f7d0231/thumbnail/1200x630/b43570b6a338e733bb40cee930fee335/iran-protest-students.jpg",
+            "publishedAt": "2022-10-04T16:16:26Z",
+            "content": "Unprecedented scenes are emerging from the Islamic Republic of Iran: Schoolgirls across the country are flouting the law, some uncovering their hair, and many chanting, \"We don't want the Islamic Rep… [+6707 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Apple-backed Matter smart home standard officially launches as iOS 16.1 adds support - 9to5Mac",
+            "description": "The long-running push for the launch of the new smart home standard Matter is taking a big step forward. The Connectivity Standards Alliance announced today that it, along with members of the alliance, are formally releasing the Matter 1.0 standard and certif…",
+            "url": "https://9to5mac.com/2022/10/04/matter-smart-home-apple-homekit-launch/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Google-Assistant-Amazon-Alexa-Apple-Homekit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-10-04T16:00:00Z",
+            "content": "The long-running push for the launch of the new smart home standard Matter is taking a big step forward. The Connectivity Standards Alliance announced today that it, along with members of the allianc… [+3511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Pixel 7: Last minute leaks! - 9to5Google",
+            "description": "EVERYTHING that has leaked ahead of Made by Google 2022! Turns out there is quite a lot we know :(Timestamps--00:00 - Intro00:24 - Design and hardware2:16 - ...",
+            "url": "https://www.youtube.com/watch?v=GqCOSeOPDSE",
+            "urlToImage": "https://i.ytimg.com/vi/GqCOSeOPDSE/hqdefault.jpg",
+            "publishedAt": "2022-10-04T15:45:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Texts, recordings show Oath Keepers' early talk of armed resistance to Biden presidency - POLITICO",
+            "description": "Rhodes' sedition trial has revealed detailed communications about planning for a violent uprising.",
+            "url": "https://www.politico.com/news/2022/10/04/texts-recordings-show-oath-keepers-early-talk-of-armed-resistance-to-biden-presidency-00060222",
+            "urlToImage": "https://static.politico.com/e0/66/0574ac7d460b86404f2743097592/ap21191653283806.jpg",
+            "publishedAt": "2022-10-04T15:13:10Z",
+            "content": "The final defense is us and our rifles, Rhodes sent to the Friends of Stone channel. Trump has a duty to stand, but so far, her [sic] hasnt. As Roger Stone said.\r\nHe added: Trump has one last chance … [+4450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 Hot Seat Rankings: Jimbo Fisher makes debut with Bryan Harsin, Scott Satterfield among coaches heating up - CBS Sports",
+            "description": "If you thought the 2021 coaching carousel was wild, the 2022 edition is just beginning to spin",
+            "url": "https://www.cbssports.com/college-football/news/2022-hot-seat-rankings-jimbo-fisher-makes-debut-with-bryan-harsin-scott-satterfield-among-coaches-heating-up/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/04/5a20df11-31f7-4f65-a6e0-516aad7b1817/thumbnail/1200x675/40bc96651dedefca59ec76b19f3e0619/2022-hotseat-midseason.png",
+            "publishedAt": "2022-10-04T15:11:00Z",
+            "content": "Jim Leonhard is in his seventh year at Wisconsin. The Badgers' new interim coach has seven games left this season to prove himself. At least that's what it looks like after Paul Chryst was fired Sund… [+3815 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "David Keyton, Seth Borenstein",
+            "title": "3 physicists share Nobel Prize for work on quantum science - The Associated Press",
+            "description": "STOCKHOLM (AP) — Three scientists jointly won this year's Nobel Prize in physics on Tuesday for their work on quantum information science, a “totally crazy” field that has significant applications, including in the field of encryption.",
+            "url": "https://apnews.com/e5dbe8322b2cfe33d2dc4ad1af393518",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0455e6e68fa345978d0a74c77558d1ca/3000.jpeg",
+            "publishedAt": "2022-10-04T15:00:00Z",
+            "content": "STOCKHOLM (AP) Three scientists jointly won this years Nobel Prize in physics on Tuesday for their work on quantum information science, a totally crazy field that has significant applications, includ… [+7030 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Google begins rolling out its iOS 16 Lock Screen widgets - TechCrunch",
+            "description": "With the latest set of app updates, Google users can add Lock Screen widgets for popular apps like Gmail and Google News. Search and Maps are still pending.",
+            "url": "https://techcrunch.com/2022/10/04/google-begins-rolling-out-its-ios-16-lock-screen-widgets/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/google-lock-screen-widgets.png",
+            "publishedAt": "2022-10-04T14:45:19Z",
+            "content": "Google’s anticipated iOS 16 Lock Screen widgets have now begun to arrive. Alongside the launch of Apple’s new mobile operating system, iOS 16, the search giant last month had teased its plans to supp… [+3384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Ben Beaumont-Thomas",
+            "title": "Loretta Lynn, country singer of love and hardship, dies aged 90 - The Guardian",
+            "description": "Kentucky-born singer went from poverty and teenage marriage to becoming one of the most celebrated stars of US country",
+            "url": "https://www.theguardian.com/music/2022/oct/04/loretta-lynn-country-singer-of-love-and-hardship-dies-aged-90",
+            "urlToImage": "https://i.guim.co.uk/img/media/cd9fb659ed6075b1852c951e0e86a840a3033809/0_62_2106_1262/master/2106.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b96b64606b0cdd2fe3e66c49f5a54355",
+            "publishedAt": "2022-10-04T14:39:00Z",
+            "content": "Loretta Lynn, whose tales of heartbreak and poverty are among the most celebrated in the country music canon, has died aged 90.\r\nLynn died at home in Hurricane Mills, Tennessee, on 4 October, her fam… [+3305 chars]"
+        }
+    ]
+}
